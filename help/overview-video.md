@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: Lär dig mer om komponenterna i en inköpsgrupp och grunderna för att skapa en kontoresa.
 role: Admin, User
 level: Beginner, Intermediate, Experienced

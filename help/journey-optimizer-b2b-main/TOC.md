@@ -1,11 +1,11 @@
 ---
-user-guide-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
-breadcrumb-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
+user-guide-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
+breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Journey Optimizer B2B Edition]. Samordna konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
 source-git-commit: fe90fa5cd8d893a8c255d24df4b24e52e6f9a962
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
