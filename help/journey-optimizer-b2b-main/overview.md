@@ -2,16 +2,16 @@
 title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 description: Titta på videosjälvstudiekurser på  [!DNL Journey Optimizer B2B Edition]. Förbättra er förståelse för hur ni kan samordna kontouppgifter och köpa gruppresor med mera.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
+source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # [!DNL Journey Optimizer B2B Edition] Självstudiekurser
 
-Lär dig hur du får ut maximalt av [!DNL Journey Optimizer B2B Edition]. Samordna konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
+Lär dig få ut det mesta av [!DNL Journey Optimizer B2B Edition]. Samordna resor om konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
 
 >[!NOTE]
 >
@@ -19,14 +19,20 @@ Lär dig hur du får ut maximalt av [!DNL Journey Optimizer B2B Edition]. Samord
 
 ## Nyheter {#whats-new}
 
-* [Översikt över inköpsgrupper](/help/buying-groups/buying-groups-overview.md)
-  _Lär dig allt om att köpa grupper och hur du använder dem._
+* [Vi presenterar kontoresor](/help/account-journeys/introducing-account-journeys.md)
+  _Lär dig allt om kontoresor och hur du använder dem för att engagera målgruppen._
 
-* [Skapa en inköpsgrupp](/help/buying-groups/create-a-buying-group.md)
-  _Lär dig hur du använder en kontopublik, en rollmall och ett lösningsintresse för att skapa inköpsgrupper._
+* [Skapa en kontoresa](/help/account-journeys/create-an-account-journey.md)
+  _Lär dig hur du använder kontomålgrupp, åtgärdsnod, avlyssningsnod och delad sökvägsnod för att skapa kontoresor._
 
-* [Intresse av lösning](/help/buying-groups/solution-interest.md)
-  _Lär dig mer om att köpa grupplösningsintressen och hur du konfigurerar/använder dem när du skapar en inköpsgrupp._
+* [Åtgärdsnod](/help/account-journeys/action-node.md)
+  _Lär dig mer om åtgärdsnoder och hur du konfigurerar dem när du skapar en kontoresa._
+
+* [Lyssna-nod](/help/account-journeys/listen-node.md)
+  _Lär dig mer om avlyssningsnoder och hur du konfigurerar dem när du skapar en kontoresa._
+
+* [Dela kontoresa](/help/account-journeys/split-account-journey.md)
+  _Lär dig mer om delade/sammanfogade sökvägsnoder och hur du konfigurerar dem när du skapar en kontoresa._
 
 ## De populäraste videoklippen {#most-popular-videos}
 
