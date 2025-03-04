@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Journey Optimizer B2B Edition]. Samordna resor om konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
-source-git-commit: 758f888cb0a7dfbc9d8fde1255ff90a4d9a8d356
+source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 43%
+source-wordcount: '69'
+ht-degree: 37%
 
 ---
 
@@ -17,9 +17,12 @@ ht-degree: 43%
 + Kontoresor {#account-journeys}
    + [Introduktion till kontoresor](/help/account-journeys/introducing-account-journeys.md)
    + [Skapa en kontoresa](/help/account-journeys/create-an-account-journey.md)
-   + [Åtgärdsnod](/help/account-journeys/action-node.md)
-   + [Lyssna-nod](/help/account-journeys/listen-node.md)
-   + [Dela kontoresa](/help/account-journeys/split-account-journey.md)
+   + Resensnoder {#journey-nodes}
+      + [Åtgärdsnod](/help/account-journeys/journey-nodes/action-node.md)
+      + [Lyssna-nod](/help/account-journeys/journey-nodes/listen-node.md)
+      + [Lyssna efter AEP-event](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+      + [Betalad mediehantering](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+      + [Dela kontoresa](/help/account-journeys/journey-nodes/split-account-journey.md)
 + Köper grupper {#buying-groups}
    + [Översikt över inköpsgrupper](/help/buying-groups/buying-groups-overview.md)
    + [Skapa en inköpsgrupp](/help/buying-groups/create-a-buying-group.md)
