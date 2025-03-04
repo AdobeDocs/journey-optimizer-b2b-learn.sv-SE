@@ -2,9 +2,9 @@
 title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 description: Titta på videosjälvstudiekurser på  [!DNL Journey Optimizer B2B Edition]. Förbättra er förståelse för hur ni kan samordna kontouppgifter och köpa gruppresor med mera.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
+source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 17%
 
 ---
@@ -12,10 +12,6 @@ ht-degree: 17%
 # [!DNL Journey Optimizer B2B Edition] Självstudiekurser
 
 Lär dig få ut det mesta av [!DNL Journey Optimizer B2B Edition]. Samordna resor om konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
-
->[!NOTE]
->
->Fler videor kommer snart!
 
 ## Nyheter {#whats-new}
 
@@ -25,13 +21,13 @@ Lär dig få ut det mesta av [!DNL Journey Optimizer B2B Edition]. Samordna reso
 * [Skapa en kontoresa](/help/account-journeys/create-an-account-journey.md)
   _Lär dig hur du använder kontomålgrupp, åtgärdsnod, avlyssningsnod och delad sökvägsnod för att skapa kontoresor._
 
-* [Åtgärdsnod](/help/account-journeys/action-node.md)
+* [Åtgärdsnod](/help/account-journeys/journey-nodes/action-node.md)
   _Lär dig mer om åtgärdsnoder och hur du konfigurerar dem när du skapar en kontoresa._
 
-* [Lyssna-nod](/help/account-journeys/listen-node.md)
+* [Lyssna-nod](/help/account-journeys/journey-nodes/listen-node.md)
   _Lär dig mer om avlyssningsnoder och hur du konfigurerar dem när du skapar en kontoresa._
 
-* [Dela kontoresa](/help/account-journeys/split-account-journey.md)
+* [Dela kontoresa](/help/account-journeys/journey-nodes/split-account-journey.md)
   _Lär dig mer om delade/sammanfogade sökvägsnoder och hur du konfigurerar dem när du skapar en kontoresa._
 
 ## De populäraste videoklippen {#most-popular-videos}
