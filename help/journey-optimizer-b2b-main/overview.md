@@ -2,10 +2,10 @@
 title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 description: Titta på videosjälvstudiekurser på  [!DNL Journey Optimizer B2B Edition]. Förbättra er förståelse för hur ni kan samordna kontouppgifter och köpa gruppresor med mera.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Lär dig få ut det mesta av [!DNL Journey Optimizer B2B Edition]. Samordna reso
 
 ## Nyheter {#whats-new}
 
-* [Vi presenterar kontoresor](/help/account-journeys/introducing-account-journeys.md)
-  _Lär dig allt om kontoresor och hur du använder dem för att engagera målgruppen._
+* [Köper gruppfaser](/help/buying-groups/buying-group-stages.md)
+  _Lär dig hur du skapar flera livscykelfaser för inköpsgrupper i en enda fasmodell och anger övergångsreglerna._
 
-* [Skapa en kontoresa](/help/account-journeys/create-an-account-journey.md)
-  _Lär dig hur du använder kontomålgrupp, åtgärdsnod, avlyssningsnod och delad sökvägsnod för att skapa kontoresor._
+* [Lyssna efter AEP-händelser](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _Definiera och använd alla upplevelsehändelser under din kontoresa._
 
-* [Åtgärdsnod](/help/account-journeys/journey-nodes/action-node.md)
-  _Lär dig mer om åtgärdsnoder och hur du konfigurerar dem när du skapar en kontoresa._
-
-* [Lyssna-nod](/help/account-journeys/journey-nodes/listen-node.md)
-  _Lär dig mer om avlyssningsnoder och hur du konfigurerar dem när du skapar en kontoresa._
-
-* [Dela kontoresa](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _Lär dig mer om delade/sammanfogade sökvägsnoder och hur du konfigurerar dem när du skapar en kontoresa._
+* [Betalad mediorkestrering](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _Lär dig hur du använder en resa för att flytta personer till en extern målgrupp, som du sedan kan skicka till ett betalmediemål som stöds i AEP målkatalog._
 
 ## De populäraste videoklippen {#most-popular-videos}
 
