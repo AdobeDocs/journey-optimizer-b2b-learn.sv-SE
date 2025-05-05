@@ -30,4 +30,4 @@ När ni väl har skapat och fyllt i kontolistor med relevanta konton kan de akti
 
 Sammanfattningsvis är kontolistor i AJO B2B en grundläggande del i hantering och samordning av kontobaserad marknadsföring och kundinteraktionsaktiviteter. De gör det möjligt för användare att ordna, målinrikta och personalisera marknadsföringssatsningar för nyckelkonton, vilket skapar meningsfulla interaktioner och relationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448653/?learn=on&enablevpops&captions=swe)

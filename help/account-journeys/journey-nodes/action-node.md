@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig mer om åtgärdsnoder och hur du konfigurerar dem när du skapar en kontoresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443249/?learn=on&enablevpops&captions=swe)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du använder kontomålgrupper, åtgärdsnoder, avlyssningsnoder och delade sökvägar för att skapa kontoresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443223/?learn=on&enablevpops&captions=swe)

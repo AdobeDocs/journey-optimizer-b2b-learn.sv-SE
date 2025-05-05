@@ -22,4 +22,4 @@ Inköpsgruppfaser representerar de olika faser som en inköpsgrupp går igenom i
 
 Med den här funktionen kan du skapa flera livscykelfaser för inköpsgrupper i en enda fasmodell och ange övergångsregler. Genom att ställa in dessa regler får ni fullständig kontroll över hur en inköpsgrupp kan gå från en fas till en annan. Scenövergångar kan sedan automatiseras inom en resa och kombinera dessa funktioner i ett enda kraftfullt flöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448698/?learn=on&enablevpops&captions=swe)

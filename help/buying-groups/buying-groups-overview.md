@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig allt om inköpsgrupper och hur du använder dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452933/?learn=on&captions=swe)

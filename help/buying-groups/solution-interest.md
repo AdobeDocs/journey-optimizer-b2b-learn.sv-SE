@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig mer om hur du köper grupplösningsintressen och hur du konfigurerar/använder dem när du skapar en inköpsgrupp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450117/?learn=on&captions=swe)

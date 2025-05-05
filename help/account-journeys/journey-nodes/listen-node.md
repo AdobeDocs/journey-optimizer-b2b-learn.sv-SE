@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig mer om avlyssningsnoder och hur du konfigurerar dem när du skapar en kontoresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443238/?learn=on&enablevpops&captions=swe)

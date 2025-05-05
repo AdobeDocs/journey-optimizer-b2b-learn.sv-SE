@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du använder en kontomålgrupp, en rollmall och ett lösningsintresse för att skapa inköpsgrupper.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451765/?learn=on&captions=swe)

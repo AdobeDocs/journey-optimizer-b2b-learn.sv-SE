@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du köper grupprollmallar och hur du konfigurerar/använder dem när du skapar en inköpsgrupp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453305/?learn=on&captions=swe)

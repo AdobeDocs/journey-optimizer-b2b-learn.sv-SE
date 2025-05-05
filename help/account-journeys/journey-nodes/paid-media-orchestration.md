@@ -30,4 +30,4 @@ Som en lösning på denna utmaning ger AJO B2B dig möjlighet att:
 
 I den här videon visar vi hur du använder en resa för att flytta personer till en extern målgrupp, som du sedan kan använda till valfritt betalmediemål i AEP-målkatalogen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448676/?learn=on&enablevpops&captions=swe)

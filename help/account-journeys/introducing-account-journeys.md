@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig allt om kontoresor och hur du använder dem för att engagera målgruppen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443211/?learn=on&enablevpops&captions=swe)

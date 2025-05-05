@@ -24,4 +24,4 @@ När du lyssnar efter AEP Events i AJO B2B kan du definiera och använda vilken 
 
 * Använd AEP-händelser i en kontoresa
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448687/?learn=on&enablevpops&captions=swe)
