@@ -28,4 +28,4 @@ Efter att kontolistor har skapats och fyllts i med relevanta konton kan de aktiv
 
 Sammanfattningsvis är kontolistor i [!DNL Journey Optimizer B2B Edition] ett grundläggande element för att hantera och samordna kontobaserade marknadsförings- och kundinteraktionsaktiviteter. Med dem kan ni ordna, målinrikta och personalisera marknadsföringssatsningar för nyckelkonton, vilket skapar meningsfulla interaktioner och relationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448653/?learn=on&enablevpops&captions=swe)

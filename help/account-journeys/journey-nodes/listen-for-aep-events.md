@@ -24,4 +24,4 @@ När du lyssnar efter AEP-händelser i [!DNL Journey Optimizer B2B Edition] kan 
 
 * Använd AEP-händelser i en kontoresa
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448687/?learn=on&enablevpops&captions=swe)
