@@ -8,11 +8,9 @@ doc-type: Feature Video
 duration: 331
 last-substantial-update: 2025-02-28T00:00:00Z
 jira: KT-17442
-hide: true
-hidefromtoc: true
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -20,14 +18,14 @@ ht-degree: 0%
 
 # Kontolistor
 
-Genom att använda kontolistor kan du skapa filtrerade listor med konton som kan användas som målgrupper.
+Genom att använda kontolistor kan du skapa filtrerade listor med konton som kan användas som målgrupper på resan.
 
-Kontolistor används för att gruppera och organisera konton baserat på särskilda kriterier, som bransch, storlek, plats eller andra relevanta attribut. Dessa listor är viktiga för att målinrikta och personalisera marknadsföringsinsatser, samordna kundresor och hantera kontobaserade marknadsföringsstrategier i AJO B2B.
+Kontolistor används för att gruppera och organisera konton baserat på särskilda kriterier, som bransch, storlek, plats eller andra relevanta attribut. De här listorna är nödvändiga för att målinrikta och personalisera marknadsföringsinsatser, samordna kundresor och hantera kontobaserade marknadsföringsstrategier i [!DNL Journey Optimizer B2B Edition].
 
-Inom AJO B2B kan man skapa, hantera och underhålla kontolistor som stöd för marknadsförings- och säljsatsningarna. Kontolistor kan användas för att definiera målgrupper, personalisera kundupplevelser och öka engagemanget med nyckelkonton.
+Inom [!DNL Journey Optimizer B2B Edition] kan du skapa, hantera och underhålla kontolistor som stöd för dina marknadsförings- och säljsatsningar. Kontolistor kan användas för att definiera målgrupper, personalisera kundupplevelser och öka engagemanget med nyckelkonton.
 
-När ni väl har skapat och fyllt i kontolistor med relevanta konton kan de aktiveras i olika kanaler och kontaktytor för att leverera personaliserade och målinriktade marknadsföringssatsningar. AJO B2B har funktioner för att aktivera kontolistor för kontobaserade marknadsföringskampanjer, kundresor och andra marknadsföringsaktiviteter.
+Efter att kontolistor har skapats och fyllts i med relevanta konton kan de aktiveras i olika kanaler och kontaktytor för att leverera personaliserade och målinriktade marknadsföringssatsningar. [!DNL Journey Optimizer B2B Edition] innehåller funktioner för att aktivera kontolistor för kontobaserade marknadsföringskampanjer, kundresor och andra marknadsföringsaktiviteter.
 
-Sammanfattningsvis är kontolistor i AJO B2B en grundläggande del i hantering och samordning av kontobaserad marknadsföring och kundinteraktionsaktiviteter. De gör det möjligt för användare att ordna, målinrikta och personalisera marknadsföringssatsningar för nyckelkonton, vilket skapar meningsfulla interaktioner och relationer.
+Sammanfattningsvis är kontolistor i [!DNL Journey Optimizer B2B Edition] ett grundläggande element för att hantera och samordna kontobaserade marknadsförings- och kundinteraktionsaktiviteter. Med dem kan ni ordna, målinrikta och personalisera marknadsföringssatsningar för nyckelkonton, vilket skapar meningsfulla interaktioner och relationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448653/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)

@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Journey Optimizer B2B Edition]. Samordna resor om konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
-source-git-commit: dafc46340bb566560c9f3f4db5a9225793c2de62
+source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 36%
+source-wordcount: '75'
+ht-degree: 34%
 
 ---
 
@@ -23,7 +23,9 @@ ht-degree: 36%
       + [Lyssna efter AEP-event](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
       + [Betalad mediehantering](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
       + [Dela kontoresa](/help/account-journeys/journey-nodes/split-account-journey.md)
-+ Köper grupper {#buying-groups}
++ Konton {#accounts}
+   + [Kontolistor](/help/accounts/account-lists.md)
++ Köpgrupper {#buying-groups}
    + [Översikt över inköpsgrupper](/help/buying-groups/buying-groups-overview.md)
    + [Köpgruppsfaser](/help/buying-groups/buying-group-stages.md)
    + [Skapa en inköpsgrupp](/help/buying-groups/create-a-buying-group.md)
