@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Självstudiekurser'
 user-guide-description: Lär dig hur du får ut maximalt av  [!DNL Journey Optimizer B2B Edition]. Samordna resor om konto- och inköpsgrupper med hjälp av inbyggd generativ AI och branschledande automatisering för att maximera efterfrågan på specifika erbjudanden.
-source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
+source-git-commit: ac86936e77f1937ad1384a23f9ede67db7fc0455
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 34%
+source-wordcount: '80'
+ht-degree: 32%
 
 ---
 
@@ -31,3 +31,4 @@ ht-degree: 34%
    + [Skapa en inköpsgrupp](/help/buying-groups/create-a-buying-group.md)
    + [Rollmallar](/help/buying-groups/role-templates.md)
    + [Intresse av lösningar](/help/buying-groups/solution-interest.md)
+   + [Använda Account Qualification Agent](/help/buying-groups/account-qualification-agent.md)
